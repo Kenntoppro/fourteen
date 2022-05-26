@@ -1,0 +1,5 @@
+tir = str(input('Python или Java: '))
+if tir == 'Java':
+   print('Python')
+elif tir == 'Python':
+   print('Java')
